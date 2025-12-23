@@ -16,7 +16,7 @@ If you want to be able to run `spectrome` from anywhere, just add it's path to y
 After completing the set-up for conda environment and `spectrome` path, you may go to the `spectrome` folder and type `jupyter notebook` or `jupyter lab` in your terminal to run the Jupyter notebooks.
 
 ## Files:
- - `../spectrome/notebooks`: contains 15 jupyter notebooks, with all the analysis done on the data.
+ - `../spectrome/notebooks`: contains the jupyter notebooks, with all the analysis done on the data.
  - `../spectrome/scripts`: It contains the `run_local_model_mi_apd.py`, `run_local_model_mi_apd.py` are the simulation of frequency spectrums with various values of the parameters in different bounds for the HCP template connectome in the case of MI and Rest, respectively. 
 
  - `../spectrome/data_brain_plotting`: contains jupyter notebooks for brain plots.
