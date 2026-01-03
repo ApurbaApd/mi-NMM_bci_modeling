@@ -14,3 +14,6 @@ __pycache__
 
 *.key
 *.mat
+
+bci_results/
+bci_results_apd/
