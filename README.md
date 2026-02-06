@@ -1,19 +1,19 @@
 ## Abstract
-Brain-computer interface (BCI) is a system that translates neural activity into commands, allowing
+Brain-Computer Interface (BCI) is a system that translates neural activity into commands, allowing
 direct communication between the brain and external devices. Despite its clinical application, BCI
 systems are unable to robustly capture subjects’ intent due to a limited understanding of the neural
-mechanisms underlying BCI control. To address this issue, we introduce a linear neural mass model to
-investigate the associated neural mechanisms of motor imagery-based BCI experiments by modulating
-the scale-free spectral characteristics of afferent inputs. We tailor this model to simulate both motor
-imagery task and resting state, and apply this approach to a cohort of 19 healthy subjects trained over
-four sessions where magnetoencephalography (MEG) and electroencephalography (EEG) signals were
-simultaneously recorded. Task-dependent modulation of scale-free cortical dynamics reveals training-
-induced excitatory–inhibitory reconfiguration in BCI training. The intra-regional neural connectivity
-strengths and time scales of the modeled excitatory and inhibitory neural mass populations capture
-changes in neural activity across conditions and sessions. Those changes appear in important areas of the
-sensorimotor cortex, relevant for motor imagery tasks. We observed these effects in both EEG and MEG
-modalities. These findings provide insights into the underlying neural mechanisms in a motor imagery
-task in BCI, paving the way to tailored BCI training protocols.
+mechanisms underlying BCI control. To address this issue, we introduce a biophysical linear neural
+mass model to investigate the associated neural mechanisms of motor imagery-based BCI experiments by
+modulating the scale-free spectral characteristics of afferent inputs. We tailor this motor imagery neural
+mass model (mi-NMM) to simulate both motor imagery task and resting state, and apply this approach to
+a cohort of 19 healthy subjects trained over four sessions where magnetoencephalography (MEG) and
+electroencephalography (EEG) signals were simultaneously recorded. Task-dependent modulation of
+scale-free cortical dynamics reveals training-induced excitatory–inhibitory reconfiguration in BCI training.
+The intra-regional neural connectivity strengths and time scales of the modeled excitatory and inhibitory
+neural mass populations capture changes in neural activity across conditions and sessions. Those changes
+appear in important areas of the sensorimotor cortex, relevant for motor imagery tasks. We observed these
+effects in both EEG and MEG modalities. These findings provide insights into the underlying neural
+mechanisms in a motor imagery task in BCI, paving the way to tailored BCI training protocols.
 
 
 
